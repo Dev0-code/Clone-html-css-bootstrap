@@ -1,0 +1,13 @@
+.cd:hover{
+    box-shadow: 5px 5px 5px 5px rgba(182, 182, 182, 0.438);
+    transform: scale(1.02);
+    transition: ease-in-out;
+}
+@media screen and (max-width: 769px) {
+    .cntr h5{
+        font-size: 5px;
+    }
+    .cntr p{
+        font-size: 5px;
+    }
+  }
